@@ -17,7 +17,7 @@ def print_ascii_header():
                       ░                                               
 
 ----------------------------------------------------------------------
-                    Made by Tarik | Vrsion > 0.1
+                    Made by Tarik | Version > 0.1
     """
     print(ascii_art)
 
