@@ -56,4 +56,4 @@ if __name__ == "__main__":
             
             stress_test(target_url, 1000000000)
     except Exception as e:
-        print(f"Bir hata oluştu: {e}")
+        print(f"Error: {e}")
