@@ -49,7 +49,7 @@ if __name__ == "__main__":
     print_ascii_header()  
     target_url = input("Target URL: ")
     try:
-        # URL'yi doğrulama
+        
         if not target_url.startswith("http://") and not target_url.startswith("https://"):
             print("Try Again...")
         else:
